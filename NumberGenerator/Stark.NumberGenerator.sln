@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stark.NumberGenerator", "Boodle.NumberGenerator\Stark.NumberGenerator.csproj", "{EB6B8522-7436-4AD3-BD8B-39909BA6618D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stark.NumberGenerator.Library", "Boodle.NumberGenerator.Library\Stark.NumberGenerator.Library.csproj", "{F7FE8FC7-113E-4169-8D45-C16578886430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stark.NumberGenerator.Tests", "Boodle.NumberGenerator.Tests\Stark.NumberGenerator.Tests.csproj", "{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{790B8AE0-8B26-44BA-A2BF-C12FBEEB6647}"
+	ProjectSection(SolutionItems) = preProject
+		Boodle.NumberGenerator.vsmdi = Boodle.NumberGenerator.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Debug|x86.ActiveCfg = Debug|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Debug|x86.Build.0 = Debug|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Release|Any CPU.ActiveCfg = Release|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Release|x86.ActiveCfg = Release|x86
+		{EB6B8522-7436-4AD3-BD8B-39909BA6618D}.Release|x86.Build.0 = Release|x86
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F7FE8FC7-113E-4169-8D45-C16578886430}.Release|x86.ActiveCfg = Release|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{85C6F356-946B-4EA5-AF28-BBB5C8FD6E08}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F263395F-57C9-41F7-9612-EBB5F9D89AE8}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Boodle.NumberGenerator.vsmdi
+	EndGlobalSection
+EndGlobal
