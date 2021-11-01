@@ -1,20 +1,13 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Toolbelt
+A couple of applications that I use frequently to make my life easier.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# .Net 4, Winforms.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Number Generator
+A utility to generate South African ID numbers, various bank account numbers and Guids. I use this to generate test data.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+#PasswordSaltAndHash
+Test utility to check password salts and hashes
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+#Stay_Awake
+A utility that prevents windows idle state from being triggered by periodically calling alt-tab keystroke event. Prevents Discord from going into auto idle status.
